@@ -28,13 +28,14 @@ print("the multiplication is", mul)
 print("division = ", div)
 ```
 Output
+```
 enter the first number: 10
 enter the second number: 5
 the sum is 15
 the sub is 5
 the multiplication is 50
 division =  2.0
-
+```
 
 # Full Name Greeting Program
 
@@ -59,7 +60,9 @@ print(full_name)
 print("hey " + full_name + " welcome to university.")
 ```
 Output
+```
 enter the name: Aayushi
 enter the last name: Kadiyan
 Aayushi Kadiyan
 hey Aayushi Kadiyan welcome to university.
+```
